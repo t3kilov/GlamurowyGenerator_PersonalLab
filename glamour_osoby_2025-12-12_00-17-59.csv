@@ -1,0 +1,13 @@
+ID;Imię;Nazwisko;Wiek;Kraj;Email;Telefon;Segment;Miasto
+VIP-002;Katarzyna;Nowak;18;Niemcy;p***@e***.com;+48 835 921 46;Młoda Elita (18-25);Paryż
+VIP-004;Jan;Wójcik;42;Francja;m***@e***.com;+48 746 991 29;Dojrzały Lider (41-55);Madryt
+VIP-010;Katarzyna;Wiśniewski;43;Niemcy;p***@e***.com;+48 791 555 22;Dojrzały Lider (41-55);Nowy Jork
+VIP-001;Michał;Nowak;47;Francja;k***@e***.com;+48 687 571 72;Dojrzały Lider (41-55);Warszawa
+VIP-008;Maria;Wiśniewski;57;Włochy;a***@e***.com;+48 663 192 30;Ekspert Senior (56-70);Londyn
+VIP-005;Maria;Wiśniewski;58;Włochy;m***@e***.com;+48 741 435 54;Ekspert Senior (56-70);Nowy Jork
+VIP-006;Tomasz;Kowalski;58;Hiszpania;p***@e***.com;+48 584 487 80;Ekspert Senior (56-70);Madryt
+VIP-012;Agnieszka;Wójcik;59;Niemcy;m***@e***.com;+48 530 847 28;Ekspert Senior (56-70);Kraków
+VIP-007;Anna;Kowalczyk;67;Wielka Brytania;t***@e***.com;+48 858 282 29;Ekspert Senior (56-70);Warszawa
+VIP-009;Piotr;Wiśniewski;68;Francja;m***@e***.com;+48 552 806 79;Ekspert Senior (56-70);Berlin
+VIP-003;Tomasz;Nowak;73;USA;m***@e***.com;+48 628 139 84;Ikona Stylu (70+);Berlin
+VIP-011;Tomasz;Kowalczyk;74;Wielka Brytania;m***@e***.com;+48 685 805 13;Ikona Stylu (70+);Madryt

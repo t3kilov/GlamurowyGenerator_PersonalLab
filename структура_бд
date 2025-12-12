@@ -1,0 +1,17 @@
+CREATE DATABASE IF NOT EXISTS glamurowygenerator;
+USE glamurowygenerator;
+
+CREATE TABLE IF NOT EXISTS user (
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    nick VARCHAR(50) NOT NULL UNIQUE,
+    pass VARCHAR(255) NOT NULL,
+    email VARCHAR(100) NOT NULL UNIQUE,
+    telefon VARCHAR(20) NOT NULL,
+    imie VARCHAR(50) NOT NULL,
+    nazwisko VARCHAR(50) NOT NULL,
+    data_rejestracji TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+-- (Test123!)
+INSERT INTO user (nick, pass, email, telefon, imie, nazwisko) 
+VALUES ('test', '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', 'test@example.com', '123456789', 'Test', 'User');
